@@ -1,0 +1,4 @@
+name: JW_Hats
+version: '${project.version}'
+main: jw.hats.Main
+api-version: 1.17
